@@ -1,0 +1,760 @@
+PAI,OCCUATION.FATHER,OCCUPATION.MOTHER,ATTACHMENT.TRUST.FATHER,ATTACHMENT.TRUST.MOTHER,ATTACHMENT.COMMUNICATION.FATHER,ATTACHMENT.COMMUNICATION.MOTHER,ATTACHMENT.ALIENATION.FATHER,ATTACHMENT.ALIENATION.MOTHER,SUPERVISING.FATHER,SUPERVISING.MOTHER
+only father,Regular,Regular,low,low,low,low,low,low,low,low
+only mother,irregular,irregular,middle,middle,middle,middle,middle,middle,middle,middle
+Both,None,None,high,high,high,high,high,high,high,high
+Nobody,irregular,irregular,low,middle,low,low,low,low,high,high
+Nobody,Regular,None,low,high,high,middle,high,low,low,middle
+Nobody,None,None,low,high,middle,low,middle,high,high,low
+only mother,irregular,irregular,low,low,low,middle,high,middle,low,middle
+Both,irregular,None,high,low,high,middle,middle,high,high,low
+only mother,irregular,Regular,low,high,high,low,high,high,low,middle
+Both,Regular,None,low,low,high,high,low,low,middle,high
+Nobody,irregular,irregular,high,middle,low,middle,high,high,middle,high
+only father,Regular,None,high,middle,middle,high,middle,high,high,low
+only mother,irregular,irregular,high,low,middle,low,high,high,high,middle
+only mother,irregular,None,middle,high,middle,middle,low,middle,middle,high
+Both,Regular,None,high,high,high,low,middle,middle,low,middle
+only father,None,Regular,middle,low,high,middle,low,middle,high,low
+Both,irregular,None,middle,high,middle,low,middle,high,low,middle
+only mother,None,None,middle,low,high,high,low,middle,middle,middle
+only father,Regular,irregular,high,low,high,low,low,high,middle,middle
+Both,Regular,Regular,low,high,high,high,high,low,high,low
+only mother,Regular,irregular,low,middle,low,middle,low,high,middle,low
+Both,None,None,high,low,high,high,high,low,low,low
+only mother,Regular,None,low,high,high,high,middle,middle,low,middle
+only father,Regular,Regular,low,low,high,middle,low,middle,middle,high
+Nobody,Regular,Regular,low,middle,middle,middle,low,high,high,low
+Nobody,Regular,irregular,middle,high,high,high,middle,low,middle,high
+only mother,Regular,irregular,low,low,middle,middle,middle,low,high,middle
+Both,Regular,Regular,middle,low,high,high,low,middle,low,low
+Nobody,None,None,middle,middle,middle,high,high,high,high,low
+Both,irregular,irregular,low,low,high,low,middle,low,middle,middle
+only mother,Regular,irregular,low,high,high,low,low,middle,high,middle
+Nobody,irregular,irregular,low,high,low,low,high,low,middle,low
+only father,None,irregular,low,middle,middle,low,low,low,middle,low
+Nobody,None,Regular,high,high,middle,high,high,middle,high,high
+Nobody,irregular,Regular,low,high,low,middle,middle,middle,low,middle
+Nobody,irregular,Regular,middle,low,low,low,low,high,high,low
+Nobody,irregular,None,middle,high,middle,middle,middle,middle,middle,high
+only father,None,irregular,high,high,high,low,high,high,middle,low
+only father,None,irregular,middle,high,low,middle,low,middle,low,middle
+only father,Regular,None,low,low,low,low,high,middle,low,high
+only mother,None,Regular,high,high,middle,low,high,low,low,low
+Both,irregular,None,middle,low,high,high,low,middle,middle,high
+only mother,irregular,irregular,high,low,high,low,low,high,low,low
+only father,irregular,Regular,low,middle,low,high,low,low,middle,middle
+only mother,Regular,irregular,low,low,middle,middle,low,middle,high,low
+only father,Regular,None,low,middle,low,low,middle,high,middle,middle
+Nobody,None,irregular,high,low,high,low,high,high,middle,high
+only mother,irregular,None,low,low,low,low,middle,low,middle,middle
+Nobody,Regular,Regular,middle,middle,high,middle,middle,low,high,low
+Both,None,Regular,low,low,high,middle,high,high,middle,low
+only father,Regular,irregular,high,middle,high,middle,middle,low,high,high
+Nobody,irregular,irregular,low,middle,low,low,high,high,middle,high
+Nobody,Regular,Regular,middle,high,middle,low,middle,high,middle,middle
+only mother,irregular,Regular,high,high,middle,high,low,middle,middle,high
+only father,Regular,irregular,middle,middle,low,high,middle,low,middle,high
+Nobody,irregular,irregular,middle,high,middle,high,middle,low,low,middle
+Nobody,None,irregular,middle,middle,middle,middle,middle,low,low,high
+only father,Regular,Regular,low,high,middle,middle,middle,low,low,high
+Nobody,None,None,middle,high,middle,high,high,low,low,high
+Nobody,None,None,middle,high,high,high,low,low,middle,low
+Both,Regular,Regular,low,middle,middle,high,middle,high,low,middle
+only mother,None,Regular,low,middle,low,high,high,low,high,low
+Nobody,None,Regular,middle,middle,high,middle,high,high,middle,low
+only father,irregular,Regular,middle,middle,middle,middle,middle,high,low,high
+Both,Regular,Regular,low,middle,middle,middle,low,low,middle,low
+only mother,irregular,Regular,low,high,high,low,low,low,high,high
+Nobody,Regular,Regular,high,middle,low,middle,middle,middle,middle,low
+only mother,None,Regular,high,high,middle,high,middle,middle,low,low
+only mother,irregular,None,high,middle,high,middle,middle,middle,low,low
+Both,irregular,None,low,middle,high,middle,low,middle,middle,middle
+only father,Regular,Regular,middle,high,middle,middle,high,middle,low,middle
+only mother,None,irregular,high,high,high,middle,middle,low,middle,low
+only mother,irregular,None,low,middle,low,high,low,high,middle,high
+Nobody,Regular,Regular,middle,middle,high,middle,middle,middle,low,low
+only mother,irregular,irregular,high,low,high,high,low,middle,low,low
+Both,None,irregular,middle,low,low,middle,low,middle,low,high
+only mother,Regular,Regular,low,high,low,low,high,low,high,high
+Both,irregular,None,low,low,low,middle,low,high,low,low
+only father,Regular,Regular,middle,high,middle,middle,low,low,low,low
+Both,Regular,irregular,middle,high,middle,middle,high,middle,high,middle
+Both,Regular,None,low,low,high,middle,low,high,low,low
+only father,None,None,middle,high,low,middle,high,high,middle,high
+only father,irregular,Regular,high,low,middle,high,low,high,middle,middle
+Both,None,irregular,low,middle,middle,middle,high,low,low,high
+Both,irregular,Regular,low,high,high,high,middle,low,low,middle
+only mother,irregular,None,low,high,middle,high,low,middle,low,high
+only mother,None,None,high,low,high,low,high,middle,high,low
+only father,None,Regular,middle,high,high,middle,high,high,low,high
+only mother,Regular,Regular,high,middle,high,middle,low,middle,middle,low
+Both,irregular,None,high,high,low,low,low,middle,high,low
+only mother,None,Regular,middle,high,middle,middle,middle,high,high,low
+Nobody,Regular,Regular,low,high,low,low,high,middle,high,high
+Both,Regular,Regular,high,middle,middle,low,high,high,low,middle
+Both,None,Regular,middle,high,low,middle,high,low,high,middle
+only father,None,irregular,middle,low,low,high,middle,high,low,middle
+only father,Regular,None,middle,low,low,high,high,high,low,low
+only father,Regular,None,middle,low,low,high,low,high,low,low
+Nobody,None,irregular,low,middle,high,high,low,high,low,high
+Both,irregular,Regular,high,low,low,low,middle,low,high,low
+Nobody,Regular,Regular,high,high,middle,middle,low,middle,middle,high
+Nobody,Regular,Regular,middle,low,high,middle,middle,high,high,high
+only mother,None,None,high,low,middle,low,middle,high,high,low
+Nobody,None,irregular,low,low,low,high,middle,low,middle,middle
+Nobody,Regular,None,high,low,low,low,middle,high,middle,low
+only mother,Regular,None,high,low,middle,low,high,middle,low,high
+only father,None,Regular,high,low,low,high,high,low,low,high
+Both,None,Regular,low,middle,low,high,high,high,middle,low
+Nobody,None,irregular,middle,low,high,middle,low,high,high,middle
+only father,None,None,high,middle,low,low,low,high,middle,middle
+only father,irregular,Regular,middle,low,middle,high,middle,middle,high,low
+only father,irregular,irregular,low,low,low,low,low,middle,middle,middle
+Both,Regular,Regular,middle,high,low,low,middle,low,high,high
+only mother,Regular,irregular,high,high,low,middle,high,high,high,high
+Nobody,Regular,irregular,middle,high,middle,high,high,low,low,high
+only father,Regular,Regular,low,low,low,low,middle,high,middle,middle
+only father,None,irregular,low,low,high,low,high,low,low,middle
+Nobody,Regular,irregular,high,middle,low,high,high,middle,high,low
+Nobody,irregular,Regular,middle,middle,high,middle,middle,high,middle,high
+only mother,irregular,Regular,low,high,high,high,middle,high,high,middle
+Both,Regular,irregular,middle,middle,middle,low,low,middle,high,high
+only father,irregular,None,high,middle,high,high,low,low,low,middle
+Nobody,irregular,Regular,low,middle,high,high,low,middle,high,high
+only father,Regular,None,middle,middle,high,high,high,low,middle,high
+Nobody,Regular,irregular,high,high,low,high,middle,high,low,low
+only mother,irregular,irregular,middle,high,low,low,middle,middle,middle,low
+only mother,None,None,high,low,middle,low,low,low,middle,middle
+only father,None,irregular,high,high,low,low,low,high,high,middle
+only father,irregular,Regular,middle,low,low,high,middle,low,low,high
+Both,irregular,irregular,middle,low,high,high,low,high,middle,high
+Both,irregular,None,middle,low,low,middle,high,high,middle,high
+Both,None,None,low,middle,middle,low,low,high,high,middle
+Nobody,irregular,irregular,low,high,high,middle,low,middle,high,high
+only father,None,None,high,middle,middle,low,low,middle,low,middle
+Both,Regular,None,middle,low,low,middle,low,high,high,middle
+Nobody,None,None,low,middle,middle,low,high,low,middle,middle
+Nobody,irregular,irregular,high,high,middle,low,low,low,high,low
+Nobody,Regular,None,middle,high,high,high,middle,high,high,middle
+only father,None,Regular,high,low,middle,high,middle,middle,low,low
+only mother,None,Regular,middle,middle,high,low,high,middle,high,low
+Both,Regular,irregular,low,high,high,middle,low,low,high,middle
+Nobody,Regular,None,low,high,low,low,high,middle,high,low
+Both,Regular,Regular,low,high,high,high,low,low,middle,low
+only mother,irregular,Regular,high,low,low,middle,middle,middle,low,middle
+Nobody,Regular,irregular,middle,low,high,high,middle,high,low,middle
+Nobody,irregular,irregular,middle,low,low,high,low,middle,middle,middle
+Nobody,Regular,irregular,middle,low,high,high,high,middle,middle,middle
+Both,irregular,None,middle,middle,low,middle,middle,middle,low,high
+only father,irregular,None,middle,high,low,high,low,high,middle,low
+Nobody,Regular,None,middle,low,middle,high,low,low,low,high
+only mother,irregular,Regular,low,middle,high,middle,high,high,middle,middle
+Both,irregular,None,low,high,low,low,middle,middle,high,low
+only father,Regular,Regular,low,high,high,low,high,low,high,high
+only mother,Regular,Regular,low,high,high,middle,high,high,high,middle
+Nobody,None,Regular,high,high,high,middle,high,low,high,high
+only father,Regular,irregular,high,middle,low,low,middle,middle,middle,high
+only mother,None,irregular,middle,low,high,middle,low,middle,low,middle
+only father,Regular,irregular,middle,high,high,low,middle,middle,high,middle
+Nobody,irregular,Regular,middle,high,low,high,high,low,high,low
+Both,None,None,low,low,low,low,high,middle,high,high
+Nobody,Regular,irregular,middle,high,high,low,middle,middle,middle,middle
+only mother,Regular,irregular,middle,middle,middle,high,middle,high,low,high
+Nobody,Regular,irregular,high,middle,low,middle,high,low,high,low
+Nobody,Regular,None,low,low,low,middle,low,middle,middle,high
+Nobody,irregular,Regular,low,middle,high,high,low,high,middle,middle
+only father,irregular,irregular,low,middle,low,high,middle,high,high,low
+only mother,None,Regular,high,low,high,middle,middle,high,high,low
+Nobody,irregular,Regular,low,high,high,low,high,middle,middle,high
+only father,Regular,irregular,low,high,middle,low,low,high,low,middle
+only father,Regular,None,low,middle,middle,low,low,high,middle,middle
+only mother,irregular,None,low,middle,middle,low,high,low,low,low
+only mother,irregular,irregular,middle,high,middle,middle,middle,high,low,low
+Nobody,Regular,Regular,high,low,middle,high,high,low,low,middle
+only mother,irregular,None,low,low,middle,low,middle,middle,middle,middle
+only mother,irregular,irregular,middle,low,high,high,low,high,high,high
+only mother,Regular,None,low,low,high,low,low,high,middle,middle
+Both,Regular,irregular,low,low,low,middle,middle,middle,low,low
+Nobody,Regular,Regular,middle,low,low,low,low,middle,high,middle
+only mother,Regular,irregular,middle,middle,high,low,middle,high,high,low
+only mother,Regular,None,low,high,low,middle,high,low,low,low
+only father,None,irregular,middle,high,high,middle,high,high,high,middle
+only mother,irregular,irregular,high,middle,high,middle,middle,high,middle,high
+Both,irregular,irregular,middle,high,low,high,high,low,low,high
+Both,irregular,irregular,high,high,low,low,high,high,middle,low
+only father,irregular,Regular,low,high,high,middle,low,high,high,low
+only mother,Regular,irregular,high,low,high,high,high,high,middle,low
+only mother,Regular,Regular,high,middle,low,low,low,high,low,high
+Both,irregular,None,low,middle,high,middle,middle,low,low,middle
+Both,None,Regular,middle,high,high,low,high,low,high,middle
+only father,irregular,irregular,low,high,low,high,low,low,middle,middle
+only mother,Regular,Regular,low,middle,high,low,low,low,middle,low
+Nobody,None,Regular,high,middle,high,middle,middle,high,high,low
+Nobody,irregular,irregular,middle,high,middle,low,middle,middle,high,high
+Nobody,None,Regular,middle,low,low,low,low,middle,low,middle
+Both,Regular,Regular,low,high,low,low,middle,high,low,high
+only mother,irregular,irregular,high,low,middle,middle,high,low,low,low
+only father,None,None,low,high,high,low,high,middle,low,low
+Both,None,None,low,low,middle,low,high,low,low,low
+only father,irregular,Regular,low,high,high,low,low,low,middle,middle
+Nobody,Regular,Regular,low,low,low,middle,middle,low,low,low
+only father,None,irregular,low,low,high,low,low,low,low,high
+Nobody,None,None,middle,low,middle,middle,high,low,high,middle
+Nobody,Regular,Regular,middle,high,high,high,middle,middle,middle,middle
+Both,irregular,Regular,high,middle,high,high,low,high,high,high
+only mother,irregular,irregular,low,low,high,low,high,high,middle,high
+only mother,irregular,Regular,high,middle,high,low,middle,low,high,high
+Nobody,Regular,irregular,middle,high,low,middle,high,low,high,middle
+Nobody,None,Regular,middle,high,high,middle,low,middle,middle,middle
+Nobody,irregular,irregular,low,middle,high,middle,high,high,middle,middle
+Nobody,None,Regular,high,middle,high,low,high,high,low,low
+Nobody,irregular,Regular,high,middle,high,low,middle,low,low,high
+Both,None,None,high,low,high,low,low,middle,middle,low
+only mother,irregular,None,middle,low,high,middle,high,low,middle,low
+only father,irregular,None,middle,low,low,middle,middle,high,middle,middle
+only father,None,Regular,middle,middle,middle,high,high,low,high,middle
+Both,None,None,high,middle,low,middle,middle,low,high,high
+only father,irregular,None,low,high,middle,middle,low,low,high,low
+only father,None,irregular,low,middle,middle,low,middle,low,low,low
+Nobody,Regular,Regular,middle,middle,low,high,middle,high,high,low
+Both,irregular,None,low,high,high,high,high,high,low,middle
+only mother,Regular,None,low,high,middle,low,high,middle,low,high
+Both,irregular,Regular,middle,high,middle,middle,low,low,high,middle
+only father,irregular,irregular,middle,high,middle,low,high,middle,middle,high
+only mother,irregular,None,low,middle,middle,low,low,middle,low,middle
+only mother,None,Regular,low,high,high,high,high,high,high,low
+only father,Regular,None,low,low,high,low,high,high,low,middle
+Nobody,Regular,irregular,high,low,middle,high,middle,high,middle,low
+Both,Regular,None,middle,low,high,low,middle,middle,low,high
+Both,None,None,high,high,high,high,high,low,high,high
+Both,irregular,Regular,middle,high,low,high,middle,middle,high,low
+Both,None,Regular,middle,middle,middle,low,low,high,middle,high
+Both,irregular,irregular,middle,low,low,low,low,low,high,low
+only father,None,Regular,low,low,low,middle,low,middle,middle,low
+only mother,irregular,irregular,low,high,middle,high,high,low,middle,middle
+only father,Regular,irregular,low,low,middle,low,high,low,middle,high
+Nobody,Regular,Regular,low,high,high,middle,middle,middle,low,high
+Nobody,irregular,None,middle,high,low,middle,middle,low,middle,high
+only mother,Regular,None,middle,middle,high,low,low,high,low,high
+only father,irregular,None,middle,middle,middle,low,middle,middle,high,middle
+only mother,Regular,irregular,middle,high,middle,low,high,middle,high,low
+only father,Regular,Regular,low,middle,high,middle,low,middle,low,middle
+Both,irregular,None,high,high,low,middle,high,middle,high,low
+Nobody,Regular,Regular,high,high,middle,low,middle,high,middle,high
+only father,None,None,high,middle,high,low,middle,low,high,high
+Nobody,irregular,Regular,low,low,low,high,middle,middle,middle,high
+Nobody,Regular,Regular,low,low,high,low,low,high,low,low
+Nobody,irregular,None,high,high,low,low,middle,high,middle,low
+Both,irregular,None,middle,middle,high,high,middle,high,middle,low
+Nobody,None,Regular,high,low,high,middle,middle,middle,middle,low
+only father,None,None,high,middle,low,low,high,high,high,middle
+Nobody,irregular,None,high,high,middle,high,low,low,middle,low
+Both,Regular,Regular,middle,low,high,low,low,middle,high,middle
+only mother,None,irregular,middle,high,middle,high,low,middle,middle,middle
+only father,None,None,high,high,middle,high,high,low,middle,middle
+only mother,None,Regular,high,middle,low,low,low,low,high,middle
+only mother,Regular,irregular,high,high,middle,high,low,low,middle,middle
+only father,None,Regular,low,middle,high,low,low,low,high,middle
+Nobody,None,Regular,low,low,high,low,low,high,low,high
+Both,None,None,low,high,low,low,high,high,low,high
+Nobody,Regular,irregular,middle,low,high,middle,high,middle,low,low
+only father,None,None,high,low,high,high,middle,high,low,high
+only father,Regular,irregular,high,low,high,high,high,low,low,middle
+only father,None,None,middle,high,high,middle,middle,high,low,high
+only father,None,Regular,middle,high,middle,middle,middle,low,middle,high
+Nobody,Regular,Regular,middle,middle,middle,high,low,low,high,middle
+only father,Regular,Regular,low,high,high,high,low,low,middle,high
+Both,None,None,low,high,low,high,low,middle,high,low
+only mother,None,Regular,high,middle,low,high,high,middle,high,high
+only mother,irregular,Regular,low,middle,middle,middle,high,middle,low,low
+only mother,irregular,Regular,low,middle,high,middle,high,middle,middle,low
+Both,irregular,Regular,middle,middle,high,high,low,low,low,low
+Nobody,Regular,Regular,middle,middle,low,high,low,middle,high,high
+Both,Regular,None,middle,low,middle,middle,high,high,middle,middle
+Nobody,None,None,low,high,middle,high,middle,middle,low,low
+Nobody,irregular,irregular,middle,middle,high,low,high,high,middle,low
+Both,None,irregular,high,high,middle,high,middle,low,high,high
+only mother,None,irregular,low,low,high,low,low,high,middle,middle
+only mother,irregular,None,high,middle,low,middle,middle,high,low,low
+Both,irregular,Regular,high,middle,middle,middle,high,middle,high,middle
+Both,Regular,None,high,low,middle,low,high,low,low,low
+only mother,None,irregular,high,low,middle,high,high,low,middle,middle
+only mother,None,irregular,middle,low,low,low,middle,middle,low,high
+only mother,Regular,None,low,high,high,high,high,low,low,high
+Both,None,None,low,middle,low,low,middle,middle,high,middle
+Nobody,irregular,Regular,middle,middle,middle,high,middle,high,middle,low
+Both,None,None,high,middle,middle,low,high,high,low,high
+Nobody,irregular,irregular,low,middle,low,high,high,middle,low,middle
+Both,Regular,irregular,high,middle,high,middle,low,low,high,middle
+only father,irregular,None,low,low,high,high,middle,high,middle,high
+Nobody,irregular,None,high,high,low,high,high,middle,high,middle
+Both,None,irregular,high,high,high,high,low,low,high,middle
+only father,irregular,irregular,high,low,high,low,middle,middle,high,middle
+only father,Regular,Regular,high,low,high,high,high,middle,low,low
+only mother,None,Regular,high,middle,low,high,high,middle,high,middle
+Both,Regular,Regular,high,high,middle,middle,high,low,high,middle
+only father,None,Regular,middle,low,middle,middle,middle,high,low,middle
+only mother,Regular,Regular,middle,low,low,low,low,middle,low,middle
+Nobody,irregular,Regular,low,high,low,low,low,high,middle,middle
+Both,None,None,high,high,high,middle,middle,high,high,high
+only mother,None,Regular,high,high,low,low,high,low,middle,high
+Nobody,irregular,Regular,high,high,middle,high,middle,high,low,middle
+only father,None,irregular,low,middle,high,high,middle,high,high,middle
+only mother,None,irregular,low,middle,high,high,high,middle,low,high
+Nobody,Regular,None,low,high,middle,high,low,high,high,middle
+only father,irregular,None,middle,high,low,high,middle,high,low,low
+Nobody,irregular,None,high,high,high,middle,high,high,high,middle
+only father,Regular,Regular,high,high,high,high,middle,low,high,high
+Nobody,irregular,None,middle,middle,low,low,low,low,middle,middle
+Both,None,Regular,middle,middle,middle,middle,high,low,low,high
+only father,None,None,middle,low,low,low,low,middle,high,low
+only father,None,Regular,low,low,middle,low,high,low,high,low
+only father,irregular,Regular,high,low,middle,low,middle,middle,high,low
+only father,irregular,Regular,middle,middle,high,middle,low,low,high,middle
+Both,None,None,high,high,low,middle,low,high,high,high
+Both,None,None,low,middle,middle,high,middle,middle,low,high
+Nobody,Regular,irregular,middle,high,low,middle,high,high,high,low
+Nobody,irregular,None,middle,middle,low,high,middle,middle,low,low
+only mother,Regular,irregular,low,high,middle,low,middle,low,middle,high
+only mother,Regular,irregular,high,low,high,high,middle,high,low,middle
+only father,irregular,None,low,middle,middle,low,high,low,high,middle
+Both,Regular,None,low,low,low,high,low,high,low,middle
+Nobody,Regular,irregular,low,high,middle,low,middle,high,high,low
+Nobody,Regular,Regular,middle,high,middle,middle,low,middle,low,high
+Both,Regular,irregular,middle,high,low,middle,middle,middle,high,low
+only mother,None,Regular,low,low,high,high,middle,low,middle,low
+only mother,irregular,Regular,low,low,middle,middle,high,high,low,middle
+only father,irregular,irregular,low,low,middle,high,middle,middle,middle,low
+only father,Regular,irregular,high,high,middle,low,high,middle,middle,low
+only mother,Regular,irregular,low,middle,low,low,low,middle,middle,middle
+Nobody,None,irregular,middle,low,middle,middle,high,low,middle,middle
+Nobody,None,Regular,middle,middle,low,low,middle,middle,middle,high
+only father,None,Regular,low,high,low,low,low,low,high,high
+only mother,None,Regular,high,middle,high,low,high,low,middle,middle
+Both,Regular,None,middle,low,low,middle,middle,low,middle,low
+Both,None,Regular,high,high,middle,middle,low,middle,high,high
+Both,irregular,Regular,middle,high,low,low,high,high,middle,high
+Nobody,irregular,Regular,high,low,low,middle,high,low,low,middle
+only father,Regular,irregular,low,high,high,high,high,low,middle,low
+Both,Regular,None,middle,high,high,middle,middle,high,high,low
+Both,irregular,irregular,low,high,middle,middle,low,middle,high,high
+Both,irregular,irregular,high,middle,middle,high,high,low,middle,low
+Both,irregular,Regular,high,low,middle,low,low,middle,low,high
+Both,Regular,irregular,middle,middle,middle,middle,low,middle,middle,high
+only mother,irregular,None,high,high,high,high,low,low,low,middle
+Nobody,Regular,irregular,middle,low,middle,high,low,middle,low,high
+Nobody,None,None,high,low,low,middle,low,high,middle,high
+Both,irregular,irregular,low,high,low,low,middle,high,middle,middle
+Both,irregular,Regular,low,high,low,low,high,low,high,middle
+Both,None,Regular,low,high,middle,middle,high,low,low,low
+Both,None,irregular,high,low,middle,middle,high,low,high,middle
+Nobody,None,irregular,middle,middle,high,high,low,middle,low,low
+only mother,irregular,None,low,low,high,low,middle,middle,middle,middle
+Both,None,irregular,high,low,high,low,middle,high,low,low
+Nobody,irregular,Regular,high,low,high,middle,low,low,low,low
+Nobody,None,None,high,middle,high,low,low,low,low,high
+only mother,Regular,Regular,high,low,high,low,low,low,middle,high
+Nobody,irregular,None,high,low,high,low,low,low,high,high
+Both,Regular,irregular,middle,middle,low,middle,low,low,low,low
+Both,None,Regular,high,high,high,high,high,middle,high,middle
+Nobody,Regular,Regular,middle,low,middle,low,high,low,middle,high
+only father,None,Regular,middle,low,middle,low,middle,middle,middle,high
+only father,irregular,Regular,low,middle,high,high,high,low,high,high
+Nobody,None,Regular,low,low,high,middle,high,middle,low,low
+Both,Regular,irregular,middle,low,middle,middle,low,low,middle,middle
+only mother,irregular,None,high,high,low,middle,high,high,middle,low
+Both,None,Regular,low,low,low,middle,middle,middle,middle,high
+only father,irregular,irregular,low,low,high,low,low,high,middle,low
+Both,irregular,irregular,high,middle,middle,middle,high,middle,low,low
+only mother,None,irregular,high,high,middle,middle,high,middle,high,high
+Both,Regular,None,middle,high,high,middle,low,middle,middle,low
+only mother,Regular,irregular,middle,middle,middle,high,low,high,middle,low
+Both,irregular,Regular,high,middle,high,middle,low,low,middle,low
+Both,irregular,irregular,middle,high,high,middle,low,low,low,middle
+Both,Regular,Regular,low,middle,high,high,low,low,low,middle
+Nobody,irregular,None,middle,high,high,middle,middle,low,low,low
+only father,irregular,Regular,middle,high,low,high,high,low,high,middle
+only mother,irregular,Regular,middle,low,low,high,low,high,high,middle
+Both,Regular,None,high,low,low,low,high,high,low,middle
+Nobody,irregular,None,middle,high,middle,middle,high,high,high,high
+Both,irregular,Regular,low,low,high,high,low,low,low,high
+only father,irregular,None,middle,high,low,low,high,middle,middle,low
+Both,None,Regular,low,high,low,high,high,middle,middle,low
+Both,None,None,low,low,high,low,middle,high,low,low
+Nobody,irregular,None,high,high,high,high,high,middle,middle,low
+Nobody,Regular,irregular,low,high,middle,high,low,low,middle,middle
+only mother,irregular,None,low,high,low,middle,low,high,high,middle
+only father,irregular,Regular,high,high,high,middle,middle,low,high,low
+only mother,None,None,middle,low,middle,middle,high,middle,middle,middle
+only father,irregular,None,high,high,middle,high,middle,high,low,middle
+Both,None,Regular,high,middle,middle,low,low,high,middle,high
+only father,Regular,irregular,high,middle,low,middle,low,middle,low,high
+only mother,irregular,None,middle,low,middle,low,low,high,high,middle
+only father,None,irregular,middle,low,high,high,high,low,high,middle
+Nobody,Regular,irregular,low,middle,low,low,middle,low,low,middle
+Both,None,Regular,low,high,high,low,high,low,high,low
+Both,None,irregular,low,high,middle,low,middle,high,low,high
+only father,irregular,irregular,middle,middle,high,low,middle,middle,middle,high
+only mother,irregular,irregular,low,low,low,high,middle,middle,middle,high
+Both,None,None,high,high,low,low,high,low,low,high
+Both,Regular,Regular,high,low,low,low,low,low,high,middle
+only father,irregular,Regular,low,high,low,low,high,middle,low,middle
+Both,None,irregular,middle,high,high,middle,low,middle,low,high
+only mother,None,irregular,low,low,low,middle,high,middle,middle,middle
+only father,Regular,None,low,low,low,middle,high,low,high,high
+only father,None,Regular,low,high,middle,high,low,low,low,low
+only mother,Regular,Regular,high,middle,low,middle,middle,low,middle,high
+only father,irregular,None,middle,middle,low,middle,high,high,low,high
+Both,irregular,Regular,middle,high,high,high,middle,low,middle,low
+Nobody,None,None,high,low,low,high,low,high,middle,middle
+only father,irregular,Regular,middle,middle,middle,middle,middle,middle,low,high
+Both,Regular,irregular,low,high,middle,high,low,low,low,middle
+Nobody,Regular,None,middle,middle,low,high,middle,high,low,low
+Both,None,irregular,middle,high,middle,middle,high,middle,low,middle
+Nobody,Regular,None,high,high,high,middle,high,high,middle,low
+only mother,Regular,irregular,high,middle,high,middle,middle,low,high,high
+Nobody,Regular,None,middle,low,low,middle,middle,middle,high,middle
+Both,None,irregular,middle,middle,high,middle,middle,low,high,low
+only mother,irregular,irregular,high,low,middle,middle,low,high,high,low
+only father,Regular,Regular,high,high,high,low,low,high,low,high
+only father,None,None,middle,low,low,middle,middle,middle,high,low
+only mother,irregular,None,middle,high,low,low,middle,high,high,high
+only father,Regular,irregular,middle,high,middle,low,low,high,low,low
+only father,irregular,Regular,low,low,high,low,low,high,middle,middle
+Both,irregular,None,middle,low,middle,low,middle,low,middle,low
+only mother,irregular,irregular,middle,middle,middle,high,low,middle,middle,middle
+Nobody,irregular,irregular,low,low,middle,low,low,middle,middle,high
+Nobody,irregular,Regular,low,high,middle,high,high,high,high,high
+only mother,irregular,Regular,middle,high,high,middle,middle,middle,middle,high
+only mother,irregular,None,low,low,low,middle,low,high,high,middle
+only mother,Regular,None,middle,middle,middle,middle,middle,middle,middle,middle
+Both,Regular,irregular,low,middle,middle,low,high,high,middle,high
+only father,Regular,None,middle,middle,low,middle,low,high,low,middle
+Nobody,irregular,irregular,low,low,middle,high,high,high,middle,low
+Both,Regular,Regular,high,high,low,high,middle,low,low,low
+Nobody,None,Regular,middle,low,middle,middle,high,middle,high,low
+Both,Regular,irregular,middle,low,high,low,high,middle,middle,low
+Nobody,Regular,irregular,low,middle,middle,low,high,low,low,high
+only mother,Regular,Regular,high,middle,low,low,high,low,low,low
+Both,None,Regular,high,high,low,high,high,middle,high,low
+Both,Regular,None,high,low,low,high,middle,high,high,high
+only father,Regular,irregular,low,low,low,middle,low,middle,high,middle
+only mother,Regular,Regular,middle,high,high,high,low,low,low,low
+only mother,Regular,Regular,high,middle,low,low,middle,high,low,low
+only mother,irregular,irregular,high,middle,low,middle,low,high,low,high
+Nobody,Regular,None,middle,low,high,middle,low,high,high,middle
+only mother,Regular,Regular,high,high,low,low,low,low,middle,low
+Nobody,Regular,None,low,high,middle,middle,middle,middle,high,middle
+Both,irregular,irregular,low,middle,middle,middle,low,high,middle,high
+only father,None,Regular,middle,middle,middle,middle,high,high,low,high
+only father,None,Regular,low,low,high,low,low,middle,low,middle
+only father,Regular,None,middle,middle,high,high,high,middle,high,middle
+Nobody,Regular,Regular,high,high,low,middle,middle,middle,low,high
+only mother,None,None,middle,middle,middle,high,middle,low,low,middle
+only mother,irregular,Regular,high,middle,high,low,low,low,low,low
+Both,irregular,None,middle,high,high,middle,high,low,middle,middle
+only father,irregular,None,middle,middle,middle,low,middle,high,low,middle
+Nobody,irregular,irregular,middle,middle,high,low,low,middle,low,middle
+Nobody,None,Regular,low,middle,middle,middle,high,low,low,low
+Nobody,None,irregular,middle,high,high,low,middle,high,middle,middle
+only father,None,irregular,middle,middle,low,high,low,middle,low,middle
+only mother,irregular,None,low,low,high,high,high,high,high,middle
+Nobody,None,None,low,low,middle,middle,low,low,low,middle
+Nobody,Regular,irregular,middle,high,high,low,high,middle,middle,middle
+Nobody,None,None,middle,low,high,low,middle,middle,high,middle
+Both,irregular,None,middle,high,middle,low,low,low,high,low
+Both,None,irregular,low,low,high,high,middle,middle,middle,low
+only father,None,Regular,high,high,low,middle,high,high,low,low
+only father,Regular,None,high,high,high,high,high,high,high,low
+only mother,Regular,Regular,high,low,middle,middle,high,high,middle,high
+only father,irregular,None,low,middle,low,low,high,high,middle,high
+only mother,None,Regular,low,middle,low,low,middle,middle,middle,low
+Both,irregular,irregular,high,low,middle,middle,low,high,low,low
+only father,irregular,Regular,high,high,low,high,middle,middle,low,high
+Both,irregular,Regular,low,low,high,middle,low,middle,low,high
+Both,Regular,Regular,middle,low,low,middle,middle,middle,middle,high
+Nobody,Regular,Regular,high,high,low,high,high,low,high,high
+only mother,None,None,middle,high,low,low,low,high,high,middle
+only mother,Regular,None,low,middle,low,high,middle,middle,middle,middle
+Both,None,Regular,high,high,low,high,high,low,middle,middle
+only mother,None,irregular,low,low,high,middle,low,middle,high,low
+only mother,irregular,None,middle,low,middle,middle,low,low,middle,middle
+only mother,Regular,Regular,high,low,middle,low,low,middle,low,high
+only mother,Regular,irregular,middle,low,high,high,low,high,low,low
+Nobody,None,None,high,high,high,low,middle,low,high,low
+Nobody,None,None,middle,low,high,middle,high,middle,middle,high
+Both,irregular,irregular,low,high,low,low,low,low,high,high
+Nobody,None,irregular,middle,middle,middle,low,middle,middle,low,low
+only mother,irregular,None,middle,low,high,high,middle,middle,high,middle
+only father,None,Regular,middle,middle,high,middle,low,high,middle,low
+only father,Regular,irregular,middle,low,low,high,high,middle,middle,low
+only mother,None,Regular,low,low,middle,low,high,low,high,low
+only father,Regular,None,middle,middle,middle,high,high,high,middle,high
+Both,Regular,Regular,middle,high,low,high,low,low,low,low
+Both,Regular,None,low,high,high,high,high,middle,high,middle
+Nobody,Regular,Regular,middle,high,high,middle,low,low,low,low
+Both,Regular,irregular,low,middle,low,low,low,high,middle,low
+only father,Regular,None,middle,high,high,high,middle,low,middle,low
+only mother,None,Regular,low,high,high,middle,low,high,low,high
+only father,None,irregular,low,low,high,middle,low,low,low,middle
+only father,irregular,None,middle,high,high,high,low,middle,high,high
+Nobody,irregular,None,high,middle,high,middle,low,low,low,middle
+Nobody,Regular,Regular,low,middle,low,low,low,low,middle,low
+Nobody,None,None,low,high,middle,high,middle,high,high,low
+Nobody,None,Regular,high,high,low,high,middle,low,low,high
+only father,None,Regular,middle,low,low,high,low,high,low,middle
+only mother,Regular,None,middle,high,high,high,low,middle,low,low
+Both,None,None,high,middle,low,high,middle,low,middle,middle
+only father,Regular,None,middle,low,high,middle,low,middle,middle,high
+Both,irregular,None,middle,low,low,low,high,middle,middle,middle
+only mother,irregular,irregular,low,middle,middle,middle,high,high,middle,high
+only father,irregular,Regular,middle,low,low,middle,middle,middle,low,middle
+Both,irregular,None,low,low,middle,high,middle,low,low,high
+only father,Regular,irregular,low,high,high,middle,low,middle,high,low
+only father,Regular,irregular,middle,middle,high,low,high,middle,low,middle
+Both,Regular,irregular,middle,low,high,low,middle,low,high,high
+only mother,irregular,Regular,high,high,low,high,low,high,low,middle
+only father,Regular,irregular,high,low,middle,low,high,high,low,low
+Nobody,Regular,None,middle,high,low,low,middle,middle,high,middle
+only father,Regular,None,middle,high,middle,middle,high,middle,low,middle
+only mother,None,Regular,middle,high,middle,middle,low,low,middle,low
+only mother,irregular,irregular,high,high,low,low,low,low,middle,low
+only father,irregular,irregular,low,low,middle,low,high,low,middle,middle
+only mother,irregular,Regular,middle,middle,high,high,high,low,middle,middle
+Both,None,Regular,middle,low,high,middle,high,low,high,middle
+only father,None,Regular,middle,middle,middle,middle,middle,low,high,high
+only father,irregular,Regular,low,middle,middle,low,middle,high,low,middle
+Both,Regular,None,middle,high,low,middle,high,high,high,low
+Nobody,None,None,high,low,low,low,low,middle,low,middle
+only mother,Regular,Regular,middle,low,high,middle,high,low,low,low
+only father,Regular,None,low,middle,middle,low,high,high,low,middle
+only mother,None,None,low,high,high,middle,low,low,low,high
+only father,None,irregular,low,high,middle,low,low,low,high,high
+Both,irregular,None,high,middle,middle,high,middle,middle,middle,low
+only mother,None,irregular,middle,low,high,low,middle,middle,low,middle
+only father,irregular,None,high,middle,high,middle,middle,middle,high,middle
+Nobody,irregular,None,middle,low,middle,low,low,high,low,middle
+Nobody,Regular,Regular,high,high,middle,high,high,middle,high,middle
+Both,irregular,Regular,high,high,high,middle,middle,middle,high,high
+only father,irregular,Regular,middle,middle,high,middle,middle,low,low,middle
+only mother,None,Regular,middle,high,middle,middle,low,low,high,middle
+only father,None,irregular,middle,high,high,low,low,low,low,high
+only father,Regular,Regular,low,middle,high,low,low,low,middle,middle
+Both,irregular,irregular,low,low,high,low,low,high,middle,middle
+only mother,None,Regular,low,middle,middle,low,middle,low,middle,low
+Both,None,irregular,low,middle,high,high,low,middle,high,high
+Both,Regular,None,middle,low,low,high,middle,high,middle,middle
+Nobody,irregular,Regular,middle,high,high,high,low,high,high,high
+only mother,irregular,None,middle,high,high,high,low,high,low,low
+only father,irregular,irregular,middle,low,middle,middle,low,middle,high,high
+only mother,Regular,Regular,low,low,low,low,low,middle,high,low
+only mother,irregular,None,high,middle,middle,high,middle,low,high,high
+Nobody,Regular,None,middle,high,middle,middle,high,low,middle,low
+only father,irregular,None,high,low,high,high,low,high,low,low
+only father,irregular,irregular,low,high,low,middle,middle,low,middle,low
+Both,None,Regular,high,low,middle,high,low,low,middle,high
+only mother,Regular,Regular,high,middle,middle,low,low,high,middle,low
+Both,Regular,None,middle,middle,low,high,high,low,high,high
+only father,Regular,irregular,middle,middle,low,low,low,low,low,high
+only father,None,irregular,high,middle,high,middle,middle,high,low,high
+only mother,None,None,high,middle,middle,middle,middle,low,middle,low
+Both,None,Regular,middle,high,middle,middle,high,middle,low,high
+Both,irregular,Regular,middle,low,low,low,low,middle,high,low
+Nobody,irregular,None,low,high,low,high,high,low,middle,low
+only mother,Regular,None,middle,middle,high,middle,high,low,high,high
+Nobody,irregular,Regular,high,middle,high,high,high,low,high,high
+only father,irregular,None,low,low,low,high,high,low,low,low
+Both,Regular,Regular,high,middle,high,high,middle,middle,middle,middle
+only mother,None,irregular,high,low,high,high,low,high,high,high
+Nobody,None,Regular,low,high,low,middle,high,low,middle,low
+only mother,None,Regular,high,low,low,middle,low,high,high,high
+only mother,None,irregular,middle,low,low,high,middle,middle,low,low
+only father,irregular,Regular,middle,high,high,high,low,high,low,low
+only father,Regular,None,middle,low,middle,middle,middle,middle,high,middle
+Both,None,None,high,middle,low,high,middle,low,high,high
+Both,irregular,Regular,middle,high,high,low,low,low,low,middle
+Both,Regular,irregular,high,low,middle,middle,low,middle,low,high
+Both,None,irregular,middle,high,high,high,middle,high,low,high
+only mother,Regular,None,high,middle,low,high,middle,low,middle,low
+Nobody,irregular,None,middle,middle,high,low,low,low,low,middle
+only father,irregular,Regular,middle,low,low,high,low,high,middle,middle
+Both,irregular,None,low,middle,low,middle,low,high,high,middle
+only father,irregular,irregular,middle,middle,high,middle,middle,high,middle,high
+Both,Regular,Regular,high,middle,middle,middle,high,high,middle,high
+only father,irregular,irregular,low,high,high,high,high,high,middle,low
+Both,Regular,irregular,low,high,low,middle,low,high,middle,middle
+Nobody,irregular,Regular,high,high,middle,low,middle,middle,high,low
+Both,None,Regular,low,high,high,low,high,low,low,low
+Nobody,Regular,Regular,low,middle,low,middle,middle,middle,low,low
+only father,Regular,None,high,middle,middle,middle,high,low,low,high
+Nobody,Regular,Regular,high,middle,middle,high,low,high,low,low
+only mother,None,irregular,low,middle,low,high,low,middle,middle,high
+only mother,Regular,None,low,high,middle,low,low,high,low,high
+Nobody,None,irregular,low,low,high,low,high,high,low,low
+only mother,None,None,high,low,middle,high,high,low,high,middle
+only mother,Regular,irregular,high,low,middle,middle,high,middle,high,low
+Nobody,None,Regular,high,low,low,low,low,low,middle,high
+Nobody,irregular,None,high,high,high,middle,middle,high,middle,high
+Both,irregular,irregular,high,high,middle,low,high,middle,middle,high
+Both,Regular,irregular,high,high,middle,high,middle,middle,low,high
+only mother,None,None,middle,middle,low,low,low,middle,high,middle
+only mother,None,None,middle,middle,high,low,high,low,low,low
+only father,None,None,middle,low,high,low,low,high,middle,middle
+only mother,irregular,irregular,low,low,high,high,high,high,middle,high
+only father,irregular,irregular,high,high,high,middle,low,middle,high,low
+only mother,Regular,Regular,low,middle,high,low,high,middle,high,high
+only mother,None,irregular,high,middle,high,high,high,middle,low,high
+only mother,None,None,low,middle,low,middle,low,high,high,middle
+only father,Regular,None,low,high,low,middle,low,middle,middle,high
+only mother,irregular,None,low,high,high,low,high,low,high,middle
+Nobody,irregular,irregular,low,low,low,low,middle,high,middle,high
+Both,irregular,irregular,low,middle,high,middle,middle,high,high,high
+only father,None,None,low,middle,high,low,high,low,middle,low
+Nobody,irregular,None,high,middle,high,high,high,high,low,middle
+Nobody,None,None,high,low,low,low,middle,middle,high,middle
+only father,None,Regular,low,low,high,low,low,low,low,low
+only father,None,Regular,low,low,middle,low,middle,low,middle,high
+Both,None,irregular,low,low,middle,low,high,low,high,low
+only mother,Regular,None,high,low,low,low,low,high,low,high
+Both,Regular,None,middle,high,high,high,high,low,low,low
+only father,irregular,Regular,high,high,low,middle,middle,high,middle,low
+only father,irregular,None,low,middle,high,high,middle,low,low,middle
+Nobody,None,irregular,low,low,high,low,high,low,high,low
+only father,irregular,Regular,middle,high,high,low,middle,low,low,low
+only father,Regular,None,high,low,middle,high,middle,high,high,low
+Both,None,irregular,middle,middle,low,high,low,low,low,middle
+only mother,None,None,middle,low,low,low,middle,middle,high,low
+only father,None,None,high,low,high,low,high,middle,high,high
+Both,irregular,Regular,middle,middle,middle,low,low,high,high,low
+Both,Regular,Regular,high,low,low,high,high,middle,low,high
+only mother,None,None,middle,middle,middle,high,low,high,middle,middle
+only mother,Regular,None,low,low,middle,high,high,middle,high,high
+only mother,Regular,None,low,middle,middle,low,middle,middle,high,high
+Nobody,irregular,None,high,low,high,high,low,low,high,low
+Both,Regular,irregular,middle,low,low,low,low,high,high,high
+only father,None,Regular,high,middle,low,low,middle,high,middle,middle
+only mother,Regular,Regular,high,low,high,low,high,middle,high,high
+Both,None,Regular,high,middle,middle,middle,middle,high,middle,low
+Nobody,irregular,None,high,high,middle,high,high,low,low,high
+only mother,Regular,Regular,high,low,low,high,low,low,low,high
+only mother,irregular,None,middle,low,low,middle,high,low,middle,low
+only mother,irregular,irregular,low,middle,low,low,high,middle,low,low
+only father,None,Regular,low,middle,low,middle,middle,high,low,low
+Nobody,irregular,irregular,high,low,middle,high,low,middle,middle,high
+only father,None,irregular,middle,middle,low,middle,low,low,high,high
+Nobody,Regular,None,middle,high,middle,high,low,high,high,high
+only father,None,Regular,high,middle,high,high,low,low,middle,low
+only mother,Regular,irregular,middle,low,low,low,high,middle,low,high
+only father,irregular,Regular,high,low,low,low,middle,high,high,middle
+only father,Regular,Regular,high,middle,high,middle,middle,high,middle,middle
+only father,None,Regular,high,low,middle,low,low,middle,low,high
+only father,Regular,irregular,high,high,middle,low,high,low,middle,middle
+only mother,irregular,None,middle,low,middle,high,high,low,low,low
+only mother,Regular,None,high,low,high,low,middle,low,low,low
+only father,irregular,None,high,high,low,high,high,low,low,high
+Nobody,None,None,high,middle,low,low,high,high,high,low
+only mother,Regular,None,middle,high,low,low,high,middle,high,low
+Both,irregular,irregular,middle,middle,low,low,low,high,low,high
+only mother,Regular,None,low,middle,middle,high,low,middle,high,high
+only father,Regular,irregular,middle,low,high,high,low,low,middle,low
+only father,Regular,Regular,high,high,high,low,low,low,high,high
+only mother,Regular,irregular,low,middle,high,high,low,low,low,low
+only father,None,irregular,low,middle,high,high,low,low,high,high
+only father,None,None,high,low,high,middle,high,high,low,middle
+Both,Regular,None,middle,middle,middle,high,high,low,middle,middle
+Nobody,irregular,None,middle,low,high,middle,high,middle,high,middle
+only mother,Regular,None,high,low,high,middle,low,middle,high,high
+only father,irregular,None,high,high,low,high,high,middle,middle,middle
+Nobody,irregular,irregular,middle,high,middle,middle,middle,middle,middle,high
+Both,irregular,None,high,high,low,high,low,low,high,middle
+only mother,None,irregular,middle,high,middle,high,high,low,middle,low
+only father,Regular,Regular,high,high,high,middle,high,middle,high,middle
+Nobody,Regular,irregular,middle,middle,low,middle,middle,high,middle,middle
+only mother,Regular,Regular,low,middle,middle,high,middle,low,high,middle
+Both,irregular,Regular,middle,high,low,middle,middle,low,middle,high
+only mother,None,Regular,middle,high,high,low,low,middle,high,middle
+only mother,Regular,irregular,low,high,middle,low,middle,high,low,low
+Both,irregular,Regular,low,high,high,high,low,middle,high,middle
+Nobody,irregular,None,middle,high,high,middle,low,middle,high,middle
+Nobody,None,None,middle,high,low,low,middle,low,low,high
+only mother,irregular,irregular,middle,high,middle,middle,middle,low,high,low
+Nobody,Regular,irregular,low,low,middle,high,middle,high,high,middle
+only mother,None,irregular,low,low,low,high,high,high,middle,low
+only father,irregular,irregular,high,low,middle,low,high,low,middle,middle
+Both,None,Regular,middle,middle,high,middle,middle,middle,low,middle
+only mother,Regular,None,high,middle,high,middle,high,high,middle,high
+only father,None,irregular,low,low,middle,high,low,high,middle,low
+only father,Regular,None,high,high,high,low,low,middle,low,middle
+Nobody,Regular,Regular,low,middle,high,high,low,middle,low,middle
+Nobody,Regular,None,low,low,high,low,high,middle,middle,middle
+only mother,Regular,irregular,low,low,high,middle,high,middle,middle,low
+Both,irregular,Regular,high,middle,low,high,low,high,low,low
+only mother,Regular,Regular,high,middle,middle,high,low,low,middle,high
+Both,Regular,irregular,high,high,high,middle,low,high,high,middle
+Both,None,Regular,high,high,low,low,high,middle,middle,low
+only father,irregular,Regular,low,high,low,middle,middle,high,high,low
+Nobody,Regular,Regular,middle,middle,middle,middle,middle,high,middle,high
+only mother,None,Regular,low,middle,high,middle,low,low,high,middle
+only mother,irregular,Regular,low,low,middle,high,low,high,high,high
+Nobody,irregular,Regular,middle,low,middle,high,high,high,low,high
+only father,None,irregular,high,low,high,low,high,middle,high,middle
+Nobody,None,Regular,middle,high,low,high,low,middle,low,low
+only father,None,None,high,low,middle,middle,high,low,high,high
+Both,Regular,irregular,low,low,middle,low,middle,low,middle,low
+Both,None,irregular,high,middle,middle,high,low,high,middle,high
+only father,None,irregular,low,low,middle,middle,high,high,middle,middle
+only mother,irregular,Regular,middle,middle,high,low,high,high,high,high
+only father,Regular,None,middle,low,low,middle,middle,high,low,middle
+Both,None,None,low,middle,low,high,low,high,high,middle
+only father,None,None,high,low,middle,middle,middle,low,middle,high
+only father,None,None,low,middle,low,low,middle,middle,middle,high
+Nobody,Regular,Regular,high,high,high,middle,high,low,high,high
+Nobody,irregular,irregular,low,high,low,middle,high,high,middle,middle
+only father,None,irregular,middle,low,middle,low,middle,middle,middle,high
+only father,irregular,Regular,middle,high,high,low,low,middle,middle,middle
+Both,None,Regular,middle,low,middle,high,low,middle,high,low
+Both,irregular,Regular,high,high,low,low,middle,middle,high,low
+Nobody,Regular,irregular,middle,low,low,middle,middle,high,high,high
+only mother,irregular,Regular,middle,low,high,high,high,middle,high,high
+only mother,Regular,irregular,low,middle,low,high,low,low,middle,high
+only mother,irregular,irregular,high,low,middle,middle,high,low,low,middle
+Nobody,None,irregular,low,high,low,high,high,middle,low,low
+only father,None,irregular,middle,low,low,middle,low,low,high,high
+Both,irregular,irregular,middle,high,high,high,high,middle,middle,middle
+Nobody,None,irregular,low,low,middle,high,low,middle,middle,high
+Both,irregular,Regular,middle,low,low,middle,low,low,middle,high
+Both,None,irregular,middle,high,high,low,low,high,low,high
+Both,irregular,irregular,high,low,middle,high,low,middle,low,high
+Both,None,irregular,middle,high,high,middle,middle,middle,low,high
+only mother,irregular,irregular,high,middle,low,low,middle,middle,low,low
+Nobody,Regular,irregular,high,middle,middle,middle,high,middle,middle,high
+only mother,irregular,None,high,middle,high,high,high,middle,middle,high
+Both,Regular,irregular,high,middle,low,low,low,middle,low,low
+only mother,None,Regular,middle,low,middle,low,middle,low,middle,high
+only father,None,irregular,high,high,low,low,low,low,high,low
+Nobody,irregular,irregular,middle,high,low,middle,high,high,middle,middle
+only father,None,None,high,high,low,middle,middle,low,low,middle
+Both,None,Regular,high,low,middle,low,low,middle,high,low
+Both,irregular,irregular,high,high,middle,middle,high,middle,low,low
+Both,None,irregular,low,low,high,low,low,middle,high,low
+Both,irregular,irregular,middle,high,middle,middle,high,middle,high,low
+Both,Regular,None,middle,high,high,middle,high,low,low,low
+Both,irregular,Regular,middle,high,low,low,middle,high,middle,high
+Nobody,irregular,irregular,high,middle,low,low,middle,high,high,low
+only mother,Regular,Regular,high,middle,middle,low,high,high,high,low
+Both,Regular,Regular,low,high,low,high,low,high,middle,low
+Both,irregular,irregular,high,low,high,low,low,low,high,low
+only mother,Regular,None,high,middle,high,high,middle,middle,low,low
+only father,Regular,Regular,middle,low,low,low,middle,middle,high,middle
+only father,None,Regular,low,low,low,middle,middle,high,high,high
+Both,None,irregular,high,high,middle,low,middle,high,low,high
+only father,None,irregular,high,middle,high,low,high,high,high,middle
+only mother,None,None,low,high,middle,low,low,high,high,low
+only mother,irregular,None,low,low,low,high,middle,high,middle,middle
+only mother,None,irregular,high,middle,low,middle,middle,middle,middle,low
+Nobody,Regular,Regular,low,middle,low,low,low,middle,low,low
+only father,Regular,irregular,middle,middle,middle,low,low,middle,middle,middle
+only father,None,irregular,middle,high,middle,high,high,middle,middle,low
+only mother,irregular,irregular,low,middle,low,low,high,low,middle,high
+Both,irregular,None,low,middle,middle,low,middle,middle,high,high
+only father,irregular,Regular,middle,high,low,low,low,low,high,middle
